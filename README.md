@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Videogames, my main language is C++ but i am familiarized with Python
 - 🌱 I’m currently learning Functional Programming in Clojure
 - 💞️ I’m looking to collaborate on big projects in the videogame industry or in Data Science
-- 📫 How to reach me:
+- 📫 How to reach me: 
 -   paulo.ogando2000@gmail.com
 
 <!---
